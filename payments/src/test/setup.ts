@@ -5,7 +5,7 @@ import { app } from "../app";
 import jwt from "jsonwebtoken";
 
 process.env.STRIPE_KEY =
-  "sk_test_51QaaYoLLjBmA6FOtO1XjTLMwfLJz9JwUScaMSokUQqiC6lTkiP29akSOgn1nCXYqvSicJcP2OUg73nEbelRMxEcP006XWHl6BJ";
+  "sk_test_51Qg15AKC8A8S1GrvyE1KEWtbLLc9ACTvp5Tr49E003O748bQvuePtwoGs8ooYkdDGd0sCiZDZonn0IMpXB0mkRSe00cPuoOnnw";
 let mongo: any;
 
 declare global {
